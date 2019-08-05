@@ -1,0 +1,20 @@
+Mike Trout / 25	/ Los Angeles Angels / Outfield
+/Kris Bryant / 25 / Chicago Cubs / ThirdBase
+/Bryce Harper / 24 / Washington Nationals / OF
+/Mookie Betts /	24  /	Boston Red Sox /	RF
+/Corey Seager /	22 /	Los Angeles Dodgers /	SS /
+Josh Donaldson /	31 /	Toronto Blue Jays /	thirdbase /
+Manny Machado /	24 /	Baltimore Orioles /	thirdbase /
+Adrian Beltre /	37 /	Texas Rangers /	thirdbase /
+Robinson Cano /	34 /	Seattle Mariners /	secondbase /
+Clayton Kershaw /	28 /	Los Angeles Dodgers /	LHP /
+Max Scherzer /	32 /	Washington Nationals /	RHP /
+Paul Goldschmidt /	29 /	Arizona Diamondbacks /	firstbase /
+Nolan Arenado /	25 /	Colorado Rockies /	thirdbase /
+Jose Altuve /	26 /	Houston Astros /	secondbase /
+Anthony Rizzo /	27 /	Chicago Cubs /	firstbase /
+Joey Votto /	33 /	Cincinnati Reds /	firstbase /
+Miguel Cabrera /	33 /	Detroit Tigers /	firstbase /
+Brian Dozier /	29 /	Minnesota Twins /	secondbase /
+Ian Kinsler /	34 /	Detroit Tigers /	secondbase /
+Francisco Lindor /	23 /	Cleveland Indians /	SS /
